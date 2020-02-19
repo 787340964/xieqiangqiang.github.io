@@ -8,7 +8,7 @@
       <p><b>地址：江苏，邮编221400</b></p>
     </td>
     <td width="25%">
-      <img src="FB3F69D951B34EC636E1402316444205.jpg.jpg" width="100%">
+      <img src="xieqiangqiang.jpg" width="100%">
     </td>
   </tr>
 </table>

@@ -9,10 +9,9 @@
       <p><b>地址：徐州市新沂市新安镇王陈村，邮编221400</b></p>
     </td>
     <td width="25%">
-      <img src="xieqiangqiang.jpg" width="100%">      %xieqiangqiang.jpg
+      <img src="xieqiangqiang.jpg" width="100%">      %
   </tr>
 </table>
-————————————————
 ### 个人信息
 #### 姓名：谢强强
 #### 出生日期：2001-01-05
